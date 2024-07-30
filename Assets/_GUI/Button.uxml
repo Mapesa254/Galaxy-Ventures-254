@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" style="height: 264px; border-top-left-radius: 300px; border-top-right-radius: 300px; border-bottom-right-radius: 300px; border-bottom-left-radius: 300px; width: 256px; background-image: url(&quot;project://database/Assets/AsteroidsBelt/_GameAssets/_GUI/ShootButton.png?fileID=2800000&amp;guid=0a5bec51ac209a147989dd3b879eea2d&amp;type=3#ShootButton&quot;); -unity-background-scale-mode: scale-to-fit;" />
+</ui:UXML>
